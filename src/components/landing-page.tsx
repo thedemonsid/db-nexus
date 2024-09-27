@@ -94,7 +94,7 @@ export function LandingPageComponent() {
               <Card>
                 <CardContent className="pt-6">
                   <p className="text-gray-500 dark:text-gray-400">
-                    "This platform has revolutionized how I create and manage databases. The natural language interface is a game-changer!"
+                    This platform has revolutionized how I create and manage databases. The natural language interface is a game-changer!
                   </p>
                   <p className="font-semibold mt-4">- Alex Johnson, Software Developer</p>
                 </CardContent>
@@ -102,7 +102,7 @@ export function LandingPageComponent() {
               <Card>
                 <CardContent className="pt-6">
                   <p className="text-gray-500 dark:text-gray-400">
-                    "As a startup founder, this tool has saved me countless hours. It's like having a database expert on call 24/7."
+                    As a startup founder, this tool has saved me countless hours. It&aposs like having a database expert on call 24/7.
                   </p>
                   <p className="font-semibold mt-4">- Sarah Lee, Tech Entrepreneur</p>
                 </CardContent>
