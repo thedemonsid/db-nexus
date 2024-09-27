@@ -2,5 +2,5 @@
 
 ## Todd list 
 - [x] Basic structure
-- [ ] connect database (w/postgres & prisma)
-- [ ] add auth (w/clerk)
+- [x] connect database (w/postgres & prisma)
+- [x] add auth (w/clerk)
